@@ -22,32 +22,34 @@ Front-End Developer building fast, modern, and user-focused web apps with React.
 ---
 
 ## 🔭 Featured Projects
+### **Graduation Project | Chat Broker** — *React, Redux, Bootstrap, REST API*
+• Developed a responsive e-commerce platform using React.
+• Applied product listing, cart system, checkout flow, and user authentication.
+• Integrated REST APIs for products and orders management.
+• Focused on performance optimization and mobile-first design.
+[Google Drive](https://drive.google.com/drive/folders/13t5rKCWWb5APM5JtLn1weNdKe9kyWBnt?usp=drive_link)
 
 ### **E-Learning Platform** — *React, Redux, REST API*  
-A course marketplace with instructor/student roles, enrollment flows, and revenue split logic. [Demo](#) • [Code](#)
+A course marketplace with instructor/student roles and enrollment flows. [Google Drive](https://drive.google.com/drive/folders/1jE17xmqFQHvU-95_Ol6JiHHiBO1mWEzQ?usp=drive_link)
 
-### **Interactive Map App** — *React, React-Leaflet, TypeScript*  
-Map-based UI with draggable markers, shape drawing, and persistence. [Demo](#) • [Code](#)
-
-### **Gaming App** — *HTML, CSS, JavaScript*  
-Static game/interactive site demonstrating DOM manipulation and animations. [Demo](#) • [Code](#)
+### **Gamer Portfolio** — *HTML, CSS, JavaScript*  
+Static game/interactive site demonstrating DOM manipulation and animations. [Demo](https://amrnasem.github.io/Gaming-App) • [Code](https://github.com/AmrNasem/Gaming-App)
 
 ### **Portfolio Sites** — *HTML/CSS/React*  
-3–5 personal & small-business websites delivered and deployed. [Live portfolio](#) • [Code](#)
+3–5 personal & small-business websites delivered and deployed.
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrnasem&show_icons=true&count_private=true&theme=default" alt="amrnasem's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrnasem&theme=default" alt="streak" />
+  [![Amr's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmrNasem)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/your-link  
-- Portfolio: https://your-portfolio.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/amr-naseem/
+- Portfolio: https://amr-naseem.vercel.app  
 - Email: amr.nasem51@gmail.com
 
 ---
