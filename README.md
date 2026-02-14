@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Amr Naseem</h1>
 <p align="center">
-  <strong>Front-End Developer</strong> • React.js • Redux Toolkit • Tailwind • Next.js (learning) • TypeScript (learning)
+  <strong>Front-End Developer</strong> • React.js • TypeScript • Redux Toolkit • Tailwind • Next.js (learning)
 </p>
 
 <!-- Badges -->
@@ -22,7 +22,7 @@
 ---
 
 ## About
-Front-End Developer building fast, modern, and user-focused web apps with React.js. I deliver responsive interfaces, reusable components, and clean UI engineering. I’m improving my TypeScript and Next.js skills through hands-on projects and have basic backend fundamentals (Node, Express, MongoDB) to better understand APIs and data flow.
+Front-End Developer building fast, modern, and user-focused web apps with React.js and (JavaScript ES6 / TypeScript). I deliver responsive interfaces, reusable components, and clean UI engineering. I’m improving my Next.js skills through hands-on projects and have basic backend fundamentals (Node, Express, MongoDB) to better understand APIs and data flow.
 
 ---
 
