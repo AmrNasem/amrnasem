@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amr Naseem</h1>
 <p align="center">
-  <strong>Front-End Developer</strong> • React.js • TypeScript • Redux Toolkit • Tailwind • Next.js (learning)
+  <strong>Front-End Developer</strong> • ( React / Next.js )
 </p>
 
 <!-- Badges -->
