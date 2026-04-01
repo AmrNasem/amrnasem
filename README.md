@@ -1,51 +1,51 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Amr Naseem</h1>
-<p align="center">
-  <strong>Front-End Developer</strong> • React.js • TypeScript • Redux Toolkit • Tailwind • Next.js (learning)
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img alt="Top Langs" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img alt="Next" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="JS" src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img alt="TS" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<h1 align="center">Hi, I'm Amr Naseem</h1>
+<h2 align="center">Front-End Developer • React.js • TypeScript • Redux Toolkit • Tailwind • Next.js</h2>
 
 ---
 
 ## About
-Front-End Developer building fast, modern, and user-focused web apps with React.js and (JavaScript ES6 / TypeScript). I deliver responsive interfaces, reusable components, and clean UI engineering. I’m improving my Next.js skills through hands-on projects and have basic backend fundamentals (Node, Express, MongoDB) to better understand APIs and data flow.
+I'm a Frontend Developer passionate about building modern web apps with React, Next.js, and TypeScript.
+I love solving real-world problems through code and continuously improving my skills by building and shipping projects.
+On a journey to become a top-level developer by focusing on consistency, learning, and real-world experience.
 
 ---
 
-## 🔭 Featured Projects
-### **Graduation Project | Chat Broker** — *React, Redux, Bootstrap, REST API*
-A responsive e-commerce platform using React. I applied product listing, cart system, checkout flow, and user authentication, integrated REST APIs for products and orders management, and focused on performance optimization and mobile-first design. [Google Drive](https://drive.google.com/drive/folders/13t5rKCWWb5APM5JtLn1weNdKe9kyWBnt?usp=drive_link)
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1RuOndUOpaRfGDW9FCigj51jemc0kjKlk/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/My CV-005020?style=flat" style="height:35px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://amr-naseem.vercel.app">
+      <img src="https://img.shields.io/badge/My Portfolio-005020?style=flat" style="height:35px; object-fit:contain;"/></a>
+  </p>
+  
+  ### 📤 My Social Accounts
+  <p align="left">
+    <a href="mailto:amr.nasem51@gmail.com">
+      <img src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" height="45"/></a> &nbsp;
+    <a href="https://linkedin.com/in/amr-nasem">
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+    <a href="https://wa.me/201207753616">
+      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a>
+    <a href="https://www.youtube.com/@amr-nasem">
+      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="45"/></a> &nbsp;
+  </p>
 
-### **E-Learning Platform** — *React, Redux, REST API*  
-A course marketplace with instructor/student roles and enrollment flows. [Google Drive](https://drive.google.com/drive/folders/1jE17xmqFQHvU-95_Ol6JiHHiBO1mWEzQ?usp=drive_link)
+### 🛠️ Top Technical Skills & Tools
 
-### **Gamer Portfolio** — *HTML, CSS, JavaScript*  
-Static game/interactive site demonstrating DOM manipulation and animations. [Demo](https://amrnasem.github.io/Gaming-App) • [Code](https://github.com/AmrNasem/Gaming-App)
-
-### **Portfolio Sites** — *HTML/CSS/React*  
-3–5 personal & small-business websites delivered and deployed.
+  <p align="left">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,redux,zustand,html,css,js,ts,tailwind,bootstrap,docker,postman,git,github&perline=6" style="height:105px;"/> &nbsp;
+  </p>
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/amr-naseem/
-- Portfolio: https://amr-naseem.vercel.app  
-- Email: amr.nasem51@gmail.com
+### 🔥 My Stats :
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AmrNasem&theme=algolia&hide_border=true&border_radius=5&background=98989800)](https://git.io/streak-stats)
 
 ---
 
-*Thanks for visiting — I build UI that people enjoy using. 👨‍💻*
+  ### 🏆 GitHub Trophies
+  
+  <p align="center">
+    <img src="https://github-profile-trophy-ahmed.vercel.app/?username=amrnasem&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
+  </p>
