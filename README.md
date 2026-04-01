@@ -46,23 +46,23 @@ On a journey to become a top-level developer by focusing on consistency, learnin
 
 ---
 
-### 🛠️ Top Technical Skills & Tools
-
-  <p align="left">
+  <h3 align="center">🛠️ Top Technical Skills & Tools</h3>
+  <br />
+  <p align="center">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,redux,zustand,html,css,js,ts,tailwind,bootstrap,docker,postman,git,github&perline=8" style="height:85px;"/> &nbsp;
   </p>
 
 ---
 
-### 🔥 My Stats :
+  <h3 align="center">🔥 My Stats</h3>
 <div align="center">
-
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=AmrNasem&theme=algolia&hide_border=true&border_radius=5&background=98989800)](https://git.io/streak-stats)
 
 ---
 
   ### 🏆 GitHub Trophies
-  
+  <br />
   <p align="center">
     <img src="https://github-profile-trophy-ahmed.vercel.app/?username=amrnasem&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
   </p>
